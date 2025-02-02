@@ -1,0 +1,70 @@
+.some-text{
+    font-family: "Montserrat", "Arial", sans-serif; 
+    font-size: 40px;
+    line-height: 60px;
+    text-align: justify;
+    font-weight: 700;
+    font-style: italic;
+}
+/* .some-text{
+семейство шрифтов: "Montserrat", "Arial", sans-serif;
+размер шрифта: 40 пикселей;
+высота строки: 60 пикселей;
+выравнивание текста: по ширине;
+начертание шрифта: 700;
+стиль шрифта: курсив;
+} */
+.some-text1{
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    font-style: italic;
+    font-weight: 300;
+}
+/* .some-text1{
+семейство шрифтов: "Open Sans", sans-serif;
+размер шрифта: 20 пикселей;
+высота строки: 30 пикселей;
+стиль шрифта: курсив;
+начертание шрифта: 300;
+} */
+.some-text2{
+    text-align: left;
+    text-decoration: line-through;
+    text-transform: capitalize;
+}
+/* .some-text2{
+выравнивание текста: слева;
+оформление текста: через строку;
+преобразование текста: заглавные буквы;
+} */
+.some-text3 {
+    text-align: center;
+    text-transform: uppercase;
+}
+/* .some-text3 {
+выравнивание текста: по центру;
+преобразование текста: в верхнем регистре;
+} */
+.some-text4 {
+    color: rgb(109, 5, 206);
+    word-spacing: 30px;
+    text-decoration: overline;
+    text-decoration-style: wavy;
+}
+/* .some-text4 {
+цвет: rgb(109, 5, 206);
+межстрочный интервал: 30 пикселей;
+оформление текста: надстрочный;
+стиль оформления текста: волнистый;
+} */
+.some-text5 {
+    letter-spacing: 5px;
+    text-decoration: underline;
+    text-decoration-style: double;
+}
+/* .some-text5 {
+межстрочный интервал: 5 пикселей;
+оформление текста: подчеркнутый;
+стиль оформления текста: двойной;
+} */
